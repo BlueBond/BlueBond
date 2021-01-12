@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Discord Account] (BlueBond#3870)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half finish
--->
