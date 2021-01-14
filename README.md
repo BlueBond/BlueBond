@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... html things
 - 📫 How to reach me: ... [Bussines email] (bluebondentertainment@gmail.com)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... like potatoes
+- ⚡ Fun fact: ... like watermelon 🍉
