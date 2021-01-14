@@ -3,11 +3,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Video games development
-- 🌱 I’m currently learning ... C++
-- 👯 I’m looking to collaborate on ... Videogame creation
-- 🤔 I’m looking for help with ... 3D Modeling
-- 💬 Ask me about ... C++ and all Problems in Unreal Engine
-- 📫 How to reach me: ... [Bussines Web] (https://bluebondentertainment.negocio.site/)
+- 🔭 I’m currently working on ... Web development
+- 🌱 I’m currently learning ... html & CSS
+- 👯 I’m looking to collaborate on ... in a WebPage
+- 🤔 I’m looking for help with ... CSS
+- 💬 Ask me about ... html things
+- 📫 How to reach me: ... [Bussines email] (bluebondentertainment@gmail.com)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I like Pencils
+- ⚡ Fun fact: ... like potatoes
